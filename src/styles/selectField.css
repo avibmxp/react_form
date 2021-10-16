@@ -1,0 +1,11 @@
+.form-check {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 10px;
+}
+
+.form-check .form-check-input {
+  margin-top: 3px;
+  margin-left: 0;
+}

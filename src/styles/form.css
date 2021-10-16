@@ -1,0 +1,28 @@
+label {
+  font-size: 1.2rem;
+}
+
+.logo {
+  width: 100%;
+  height: auto;
+}
+
+.submit {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.container {
+  min-height: 100vh;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  font-family: Raleway;
+  padding: 10px 20px;
+  max-width: 970px;
+  font-size: 1.4rem;
+}
+
+.from-wrapper h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 400;
+}
